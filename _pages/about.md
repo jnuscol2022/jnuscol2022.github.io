@@ -1,13 +1,14 @@
 ---
 layout: about
 title: About
+nav: false
 permalink: /
 subtitle: 
 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# news: true  # includes a list of news items
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+# social: true  # includes social icons at the bottom of the page
 ---
 
 The Students’ Conference on Linguistics (JNU-SCoL 2022) will take place on 2-3-4 March 2023. The Conference is being organised by [the Centre for Linguistics](https://www.jnu.ac.in/sllcs/cl) at [Jawaharlal Nehru University (JNU)](https://www.jnu.ac.in/main/), Delhi in collaboration with [the Central Institute of Indian Languages](https://ciil.org/) (CIIL), Mysuru.
