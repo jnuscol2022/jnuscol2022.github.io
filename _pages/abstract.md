@@ -9,7 +9,9 @@ nav_order: 1
 We invite submissions in any area related to the field of South Asian languages and linguistics, addressing, but not limited to, the following topics:
  
 •	Descriptive Studies
+
 •	Comparative and Typological Studies
+
 •	Phonetics and Phonology
 •	Morphology and Syntax
 •	Semantics and Pragmatics
