@@ -1,8 +1,7 @@
 ---
 layout: about
 title: About
-nav: false
-permalink: /about/
+permalink: /
 subtitle: 
 
 
